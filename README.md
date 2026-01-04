@@ -86,7 +86,7 @@ go run cmd/server/main.go
 
 Sends a message to the processing queue.
 
-* **URL**: `/send-scm`
+* **URL**: `/send-fcm`
 * **Method**: `POST`
 * **Content-Type**: `application/json`
 
